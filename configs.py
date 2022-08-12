@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @berlinx
 
 import os
 
@@ -28,6 +28,9 @@ Send me any file I will save it in my Database.
 
  [Movies Search & Auto Filter BOT](https://t.me/Tamil_Mvs_Filter_bot), Search Movies in telegram...
 
+Upto 132118+ Files in Database...
+
+Bot is also working in groups...
 """
 	ABOUT_DEV_TEXT = f"""
 **📢 Our Official Main Channels & Groups📢
